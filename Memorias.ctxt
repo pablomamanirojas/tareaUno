@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Memorias
+comment1.params=mar\ col\ pre\ tam
+comment1.target=Memorias(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getMarca()
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+numComments=4
